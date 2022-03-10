@@ -9,7 +9,7 @@ public class Tasks {
         // a method that can display the initials of a person
 
 
-        initial("Ahmet", "Acik");
+        initial("Burak", "Aribogan");
 
     }
 
